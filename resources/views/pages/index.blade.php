@@ -6,7 +6,7 @@
         <title>{{config('app.name', 'BTAPP')}}</title>
     </head>
     <body>
-        <h1>About Us</h1>
-        <p>This is the about page</p>
+        <h1>Welcome to Laravel</h1>
+        <p>This is the laravel application from the "Laravel from Scratch"</p>
     </body>
 </html>

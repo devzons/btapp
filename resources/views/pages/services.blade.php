@@ -6,7 +6,7 @@
         <title>{{config('app.name', 'BTAPP')}}</title>
     </head>
     <body>
-        <h1>About Us</h1>
-        <p>This is the about page</p>
+        <h1>Services</h1>
+        <p>This is the services page</p>
     </body>
 </html>
