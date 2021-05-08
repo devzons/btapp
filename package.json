@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "@ckeditor/ckeditor5-build-classic": "^16.0.0",
-        "ckeditor4": "^4.13.1"
+        "ckeditor4": "^4.14.0"
     }
 }
